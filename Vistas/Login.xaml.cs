@@ -22,28 +22,5 @@ namespace Vistas
         {
             InitializeComponent();
         }
-
-        private void btnIngresar_Click(object sender, RoutedEventArgs e)
-        {
-            string usuario = txtUsuario.Text.Trim();
-            string contrasenia = txtContrasenia.Password;
-
-            if (usuario == "admin" && contrasenia == "admin123")
-            {
-                MainWindow principal = new MainWindow("Admin");
-                principal.Show();
-                this.Close();
-            }
-            else if (usuario == "vendedor" && contrasenia == "vendedor123")
-            {
-                MainWindow principal = new MainWindow("Vendedor");
-                principal.Show();
-                this.Close();
-            }
-            else
-            {
-                MessageBox.Show("Usuario o contraseña incorrectos.", "Error de Login", MessageBoxButton.OK, MessageBoxImage.Error);
-            }
-        }
     }
 }
