@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\danip\Desktop\LPOO\LPOO2\TPS\TP1\Vistas\obj\x86\Debug\
+C:\Users\danip\Desktop\LPOO\LPOO2\TPS\TP\Vistas\obj\x86\Debug\
 Vistas
 none
 false
 DEBUG;TRACE
-C:\Users\danip\Desktop\LPOO\LPOO2\TPS\TP1\Vistas\App.xaml
-61968867063
+C:\Users\danip\Desktop\LPOO\LPOO2\TPS\TP\Vistas\App.xaml
+9817601411
 
-101075839907
-13228358399
-MainWindow.xaml;Login.xaml;ABMProveedores.xaml;ABMClientes.xaml;ABMProductos.xaml;ABMVendedores.xaml;
+111484804120
+13765980977
+MainWindow.xaml;Login.xaml;ABMProveedores.xaml;ABMClientes.xaml;ABMProductos.xaml;ABMVendedores.xaml;Estilos.xaml;Plantillas.xaml;LoginControl.xaml;
 
 False
 
